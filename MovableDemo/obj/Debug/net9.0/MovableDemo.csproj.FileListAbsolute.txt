@@ -1,0 +1,15 @@
+C:\Users\elike\Desktop\dcit318-assignment2-11030263\MovableDemo\bin\Debug\net9.0\MovableDemo.exe
+C:\Users\elike\Desktop\dcit318-assignment2-11030263\MovableDemo\bin\Debug\net9.0\MovableDemo.deps.json
+C:\Users\elike\Desktop\dcit318-assignment2-11030263\MovableDemo\bin\Debug\net9.0\MovableDemo.runtimeconfig.json
+C:\Users\elike\Desktop\dcit318-assignment2-11030263\MovableDemo\bin\Debug\net9.0\MovableDemo.dll
+C:\Users\elike\Desktop\dcit318-assignment2-11030263\MovableDemo\bin\Debug\net9.0\MovableDemo.pdb
+C:\Users\elike\Desktop\dcit318-assignment2-11030263\MovableDemo\obj\Debug\net9.0\MovableDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elike\Desktop\dcit318-assignment2-11030263\MovableDemo\obj\Debug\net9.0\MovableDemo.AssemblyInfoInputs.cache
+C:\Users\elike\Desktop\dcit318-assignment2-11030263\MovableDemo\obj\Debug\net9.0\MovableDemo.AssemblyInfo.cs
+C:\Users\elike\Desktop\dcit318-assignment2-11030263\MovableDemo\obj\Debug\net9.0\MovableDemo.csproj.CoreCompileInputs.cache
+C:\Users\elike\Desktop\dcit318-assignment2-11030263\MovableDemo\obj\Debug\net9.0\MovableDemo.sourcelink.json
+C:\Users\elike\Desktop\dcit318-assignment2-11030263\MovableDemo\obj\Debug\net9.0\MovableDemo.dll
+C:\Users\elike\Desktop\dcit318-assignment2-11030263\MovableDemo\obj\Debug\net9.0\refint\MovableDemo.dll
+C:\Users\elike\Desktop\dcit318-assignment2-11030263\MovableDemo\obj\Debug\net9.0\MovableDemo.pdb
+C:\Users\elike\Desktop\dcit318-assignment2-11030263\MovableDemo\obj\Debug\net9.0\MovableDemo.genruntimeconfig.cache
+C:\Users\elike\Desktop\dcit318-assignment2-11030263\MovableDemo\obj\Debug\net9.0\ref\MovableDemo.dll
