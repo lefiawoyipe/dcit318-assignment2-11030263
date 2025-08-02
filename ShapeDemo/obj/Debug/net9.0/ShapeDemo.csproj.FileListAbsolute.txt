@@ -1,0 +1,15 @@
+C:\Users\elike\Desktop\dcit318-assignment2-11030263\ShapeDemo\bin\Debug\net9.0\ShapeDemo.exe
+C:\Users\elike\Desktop\dcit318-assignment2-11030263\ShapeDemo\bin\Debug\net9.0\ShapeDemo.deps.json
+C:\Users\elike\Desktop\dcit318-assignment2-11030263\ShapeDemo\bin\Debug\net9.0\ShapeDemo.runtimeconfig.json
+C:\Users\elike\Desktop\dcit318-assignment2-11030263\ShapeDemo\bin\Debug\net9.0\ShapeDemo.dll
+C:\Users\elike\Desktop\dcit318-assignment2-11030263\ShapeDemo\bin\Debug\net9.0\ShapeDemo.pdb
+C:\Users\elike\Desktop\dcit318-assignment2-11030263\ShapeDemo\obj\Debug\net9.0\ShapeDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elike\Desktop\dcit318-assignment2-11030263\ShapeDemo\obj\Debug\net9.0\ShapeDemo.AssemblyInfoInputs.cache
+C:\Users\elike\Desktop\dcit318-assignment2-11030263\ShapeDemo\obj\Debug\net9.0\ShapeDemo.AssemblyInfo.cs
+C:\Users\elike\Desktop\dcit318-assignment2-11030263\ShapeDemo\obj\Debug\net9.0\ShapeDemo.csproj.CoreCompileInputs.cache
+C:\Users\elike\Desktop\dcit318-assignment2-11030263\ShapeDemo\obj\Debug\net9.0\ShapeDemo.sourcelink.json
+C:\Users\elike\Desktop\dcit318-assignment2-11030263\ShapeDemo\obj\Debug\net9.0\ShapeDemo.dll
+C:\Users\elike\Desktop\dcit318-assignment2-11030263\ShapeDemo\obj\Debug\net9.0\refint\ShapeDemo.dll
+C:\Users\elike\Desktop\dcit318-assignment2-11030263\ShapeDemo\obj\Debug\net9.0\ShapeDemo.pdb
+C:\Users\elike\Desktop\dcit318-assignment2-11030263\ShapeDemo\obj\Debug\net9.0\ShapeDemo.genruntimeconfig.cache
+C:\Users\elike\Desktop\dcit318-assignment2-11030263\ShapeDemo\obj\Debug\net9.0\ref\ShapeDemo.dll
